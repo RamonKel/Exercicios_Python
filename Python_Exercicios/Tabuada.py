@@ -1,0 +1,15 @@
+t = int(input('Digite um valor e descubra sua tabuada!: '))
+print('='*15)
+print('6 x 1 =', t*1)
+print('6 x 2 =', t*2)
+print('6 x 3 =', t*3)
+print('6 x 4 =', t*4)
+print('6 x 5 =', t*5)
+print('6 x 6 =', t*6)
+print('6 x 7 =', t*7)
+print('6 x 8 =', t*8)
+print('6 x 9 =', t*9)
+print('6 x 10 =', t*10)
+print('='*15)
+
+# Tabuada de multiplicação de um valor definido
