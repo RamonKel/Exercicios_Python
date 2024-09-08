@@ -6,3 +6,6 @@ ultimo_nome = nome[-1]
 print('Muito prazer em te conhecer! \n'
       'Seu primeiro nome é {} \n'
       'Seu ultimo nome é {}'.format(primeiro_nome,ultimo_nome))
+
+'''Realiza a verificação do nome inserido, e mostrando
+o primeiro e ultimo nome'''
